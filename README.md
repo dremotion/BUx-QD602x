@@ -1,20 +1,19 @@
 ## Descriptive Analysis On Contoso Dataset<br/>
-This project was a part of classroom assignment for course titled "Business Analytics for Data Driven Decision Making" taught by Boston University via edx. 
+This project was a part of classroom assignment for course titled "[Business Analytics for Data Driven Decision Making]"[3] taught by Boston University via edx. 
 
-If you'd like to view the course page, you can do so by [clicking here][3]<br/>
 If you'd like to view the notes I took during the classroom, please [click here][4]
 
 In this project, I've tried doing a descriptive analysis. <br/>
 The dataset I've used is a reduced verion of contoso data set used by Microsoft for training purposes. 
 
 ### Index
-1. [Quick Summary](#quick-summary)
+1. [Overview of dataset](#quick-summary)
 2. [Prerequisites](#prerequisites)
 3. [Findings](#findings)
 
 
 ### Quick Summary<br/>
-This project was aimed to get familiar with Microsoft Power BI and t achieve that, I did a descriptive analysis.
+This project was aimed to get familiar with Microsoft Power BI and to achieve that, I did a descriptive analysis.
 You can download the original dataset, by [clicking here][1]<br/>
 
 The dataset is about a company named "Contoso", which is struggling with its declining sales.<br/>
