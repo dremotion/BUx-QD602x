@@ -1,42 +1,43 @@
-##Descriptive Analysis On Contoso Dataset
+## Descriptive Analysis On Contoso Dataset<br/>
 This project was a part of classroom assignment for course titled "Business Analytics for Data Driven Decision Making" taught by Boston University via edx. 
 
-If you'd like to view the course page, you can do so by [clicking here][3]
+If you'd like to view the course page, you can do so by [clicking here][3]<br/>
 If you'd like to view the notes I took during the classroom, please [click here][4]
 
-In this project, I've tried doing a descriptive analysis. 
+In this project, I've tried doing a descriptive analysis. <br/>
 The dataset I've used is a reduced verion of contoso data set used by Microsoft for training purposes. 
 
-###Index
+### Index
 1. [Quick Summary](Quick-Summary)
 2. [Prerequisites](Prerequisites)
 3. [Findings](Findings)
 
 
-###Quick Summary
+### Quick Summary<br/>
 This project was aimed to get familiar with Microsoft Power BI and t achieve that, I did a descriptive analysis.
-You can download the original dataset, by [clicking here][1]
+You can download the original dataset, by [clicking here][1]<br/>
 
-The dataset is about a company named "Contoso", which is struggling with its declining sales.
+The dataset is about a company named "Contoso", which is struggling with its declining sales.<br/>
 The company offers ultiples products in multiple continents. They have 4 types of channels which are Online, Reseller, Catalog, Store.
 
 
-###Prerequisites
-⋅⋅* [Contoso Dataset][1]
-⋅⋅* [Microsoft Power BI][2]
+### Prerequisites
+* [Contoso Dataset][1]
+* [Microsoft Power BI][2]
 
 
-###Findings
-I analysed the data with the helps of plots and charts. You can view my workspace downloading this project. 
+### Findings
+
+I analysed the data with the helps of plots and charts. You can view my workspace downloading this project. <br/>
 My major findings included:
-⋅⋅* Company's declining sales in North America, which also acted its major market
-⋅⋅* The company sales have been reducing in its offline stores while slowly increased via online channels. However, stores still remain the most revenues generating channel.
-⋅⋅* A major portion of Contoso's revenue comes from its sales of Computers.
-⋅⋅* The YoY sales tell that 2012 was an exceptionally bad year for Contoso in North America and Europe. 
+* Company's declining sales in North America, which also acted its major market
+* The company sales have been reducing in its offline stores while slowly increased via online channels. However, stores still remain the most revenues generating channel.
+* A major portion of Contoso's revenue comes from its sales of Computers.
+* The YoY sales tell that 2012 was an exceptionally bad year for Contoso in North America and Europe. 
 
 and some other similar findings.
 
-Up next, I used the "Forecast" feature of PowerBI to predict the seasonality effects on Contoso's sales.
+Up next, I used the "Forecast" feature of PowerBI to predict the seasonality effects on Contoso's sales as represented in the "Seasonality & Predictions" sheet of the workspace.
 
 
 [1]: https://www.dropbox.com/s/dn26zx98v91ideq/Contoso.pbix?dl=0
