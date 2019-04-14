@@ -1,4 +1,4 @@
-## Descriptive Analysis On Contoso Dataset<br/>
+# Descriptive Analysis On Contoso Dataset<br/>
 This project was a part of classroom assignment for course titled ["Business Analytics for Data Driven Decision Making"][3] taught by Boston University via edx. 
 
 If you'd like to view the notes I took during the classroom, please [click here][4]
@@ -6,23 +6,23 @@ If you'd like to view the notes I took during the classroom, please [click here]
 In this project, I've tried doing a descriptive analysis. <br/>
 The dataset I've used is a reduced verion of contoso data set used by Microsoft for training purposes. 
 
-### Index
+## Index
 1. [Overview of dataset](#quick-summary)
 2. [Prerequisites](#prerequisites)
 3. [Findings](#findings)
 
 
-### Quick Summary<br/>
+## Quick Summary<br/>
 This project was aimed to get familiar with Microsoft Power BI and to achieve that, I did a descriptive analysis.<br/>
 The dataset is about a company named "Contoso", which is struggling with its declining sales. The company offers ultiples products in multiple continents. They have 4 types of channels which are Online, Reseller, Catalog, Store.
 
 
-### Prerequisites
+## Prerequisites
 * [Contoso Dataset][1]
 * [Microsoft Power BI][2]
 
 
-### What I Did
+## What I Did
 
 I analysed the data with the helps of plots and charts. You can view my workspace downloading this project. <br/>
 My major findings included:
