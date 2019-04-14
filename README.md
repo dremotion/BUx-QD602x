@@ -1,5 +1,5 @@
 ## Descriptive Analysis On Contoso Dataset<br/>
-This project was a part of classroom assignment for course titled "[Business Analytics for Data Driven Decision Making]"[3] taught by Boston University via edx. 
+This project was a part of classroom assignment for course titled ["Business Analytics for Data Driven Decision Making"][3] taught by Boston University via edx. 
 
 If you'd like to view the notes I took during the classroom, please [click here][4]
 
