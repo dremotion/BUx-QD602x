@@ -8,9 +8,9 @@ In this project, I've tried doing a descriptive analysis. <br/>
 The dataset I've used is a reduced verion of contoso data set used by Microsoft for training purposes. 
 
 ### Index
-1. [Quick Summary](Quick-Summary)
-2. [Prerequisites](Prerequisites)
-3. [Findings](Findings)
+1. [Quick Summary](#quick-summary)
+2. [Prerequisites](#prerequisites)
+3. [Findings](#findings)
 
 
 ### Quick Summary<br/>
