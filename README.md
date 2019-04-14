@@ -13,11 +13,8 @@ The dataset I've used is a reduced verion of contoso data set used by Microsoft 
 
 
 ### Quick Summary<br/>
-This project was aimed to get familiar with Microsoft Power BI and to achieve that, I did a descriptive analysis.
-You can download the original dataset, by [clicking here][1]<br/>
-
-The dataset is about a company named "Contoso", which is struggling with its declining sales.<br/>
-The company offers ultiples products in multiple continents. They have 4 types of channels which are Online, Reseller, Catalog, Store.
+This project was aimed to get familiar with Microsoft Power BI and to achieve that, I did a descriptive analysis.<br/>
+The dataset is about a company named "Contoso", which is struggling with its declining sales. The company offers ultiples products in multiple continents. They have 4 types of channels which are Online, Reseller, Catalog, Store.
 
 
 ### Prerequisites
