@@ -22,16 +22,14 @@ The dataset is about a company named "Contoso", which is struggling with its dec
 * [Microsoft Power BI][2]
 
 
-### Findings
+### What I Did
 
 I analysed the data with the helps of plots and charts. You can view my workspace downloading this project. <br/>
 My major findings included:
 * Company's declining sales in North America, which also acted its major market
 * The company sales have been reducing in its offline stores while slowly increased via online channels. However, stores still remain the most revenues generating channel.
 * A major portion of Contoso's revenue comes from its sales of Computers.
-* The YoY sales tell that 2012 was an exceptionally bad year for Contoso in North America and Europe. 
-
-and some other similar findings.
+* YoY sales: 2012 was an exceptionally bad year for Contoso in North America and Europe. 
 
 Up next, I used the "Forecast" feature of PowerBI to predict the seasonality effects on Contoso's sales as represented in the "Seasonality & Predictions" sheet of the workspace.
 
